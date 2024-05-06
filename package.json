@@ -16,13 +16,14 @@
   "author": "HubSpot",
   "license": "ISC",
   "dependencies": {
+    "@types/node-fetch": "^2.5.7",
     "bottleneck": "^2.19.5",
+    "convert-fetch-to-curl": "^0.0.4",
     "es6-promise": "^4.2.4",
     "form-data": "^2.5.0",
     "lodash.get": "^4.4.2",
     "lodash.merge": "^4.6.2",
     "node-fetch": "^2.6.0",
-    "@types/node-fetch": "^2.5.7",
     "url-parse": "^1.4.3"
   },
   "devDependencies": {

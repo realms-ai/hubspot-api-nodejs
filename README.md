@@ -488,3 +488,14 @@ If there is a linting error based on formatting, you can run the command below t
 ```bash
 npm run prettier:write
 ```
+
+## Wants to see the Curl command of the request, install with below line
+
+```
+ npm install --save @hubspot/api-client@realms-ai/hubspot-api-nodejs#curlLog
+```
+
+- Add the environment variable
+```
+  NODE_DEBUG=*
+```

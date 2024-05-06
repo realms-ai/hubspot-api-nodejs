@@ -14,7 +14,7 @@
     "sourceMap": true,
     "outDir": "./lib",
     "noLib": false,
-    "lib": [ "es6" ],
+    "lib": [ "es6" ]
   },
   "exclude": [
     "lib",
